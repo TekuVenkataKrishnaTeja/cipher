@@ -223,6 +223,6 @@ This project demonstrates practical implementation of:
 
 # Author
 
-**Venky Teku**
+**Venkat Krishna Teja Teku**
 
 Aspiring Cybersecurity Professional | MCA Student | C++ & Python Developer
